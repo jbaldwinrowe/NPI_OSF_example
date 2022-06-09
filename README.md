@@ -1,1 +1,0 @@
-# NPI_OSF_example
